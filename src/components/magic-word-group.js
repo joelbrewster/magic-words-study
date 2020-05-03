@@ -11,9 +11,9 @@ const Magicwordgroup = () =>  {
       <div className="col" id={colour} style={{backgroundColor: `${colour}`,}}>
           <Link to={colour}>
 	      <div className="col-container">
-		  <h2>
+		  <p>
 		      {colour}
-		  </h2>
+		  </p>
 	      </div>
           </Link>
       </div>
