@@ -620,3 +620,32 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+a {
+    color: black;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+.col {
+    flex: 1;
+    text-align: center;
+    /* For lemon name not existing in css: RE: magic-word component */
+    background-color: #ffff00;
+}
+
+.col-container {
+    padding: 2em;
+}
+
+h2 {
+    margin: 0;
+}
+
+@media (max-width: 400px) {
+    .flex-grid {
+	display: block;
+    }
+}
