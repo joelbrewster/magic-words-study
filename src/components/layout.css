@@ -5,6 +5,8 @@
 
 body {
     font-family: "vic", sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 a {
@@ -29,7 +31,7 @@ a {
 
 p {
     margin: 0;
-    padding: .25em;
+    padding: .1em;
     font-size: 25.5vw;
     leter-spacing: -3vw;
 }
@@ -37,6 +39,7 @@ p {
 .slide {
     flex: 0 0 auto;
     width: 100vw;
+    height: 100vh;
     position: relative;
     display: flex;
 }
@@ -52,4 +55,8 @@ p {
 
 #golden {
     background-color: #F7CE46;
+}
+
+#red {
+    background-color: #EB3323;
 }
