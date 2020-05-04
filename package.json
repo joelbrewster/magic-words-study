@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "magic-words",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Magic words for children to study",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Joel brewster <hi@Joelbrewster.com>",
   "dependencies": {
     "embla-carousel-react": "^1.3.1",
     "gatsby": "^2.21.0",
@@ -37,9 +37,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/joelbrewster/magic-words"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/joelbrewster/magic-words/issues"
   }
 }
