@@ -30,6 +30,7 @@ p {
     margin: 0;
     padding: .25em;
     font-size: 25.5vw;
+    leter-spacing: -2vw;
 }
 
 .slide {
