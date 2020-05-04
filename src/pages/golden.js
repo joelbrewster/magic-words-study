@@ -4,7 +4,7 @@ import EmblaCarouselReact from 'embla-carousel-react'
 
 const IndexPage = () =>  {
 
-  const colour = 'gold';
+  const colour = '#F7CE46';
   const [embla, setEmbla] = useState(null);
 
   const options = {
@@ -38,20 +38,20 @@ const IndexPage = () =>  {
   ];
   return (
     <>
-	<EmblaCarouselReact
-	  htmlTagName="div"
-	  emblaRef={setEmbla}
-	  options={options}
-	>
+    <EmblaCarouselReact
+    htmlTagName="div"
+    emblaRef={setEmbla}
+    options={options}
+    >
 
-	    <div className="slide">
-		{words.map(word =>
-		  <div className="slide-inner"  style={{ backgroundColor: `${colour}` }}>
-		      <p>
-			  {word}
-		      </p>
-		  </div>
-		)}
+    <div className="slide">
+    {words.map(word =>
+      <div className="slide-inner" style={{ backgroundColor: `${colour}` }}>
+	  <p>
+	      {word}
+	  </p>
+      </div>
+    )}
 	    </div>
 	</EmblaCarouselReact>
 
