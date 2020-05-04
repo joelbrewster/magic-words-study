@@ -8,7 +8,7 @@ const Magicwordgroup = () =>  {
     <>
     {colours.map(colour =>
       /* lemon isn't a css background colour so set in layout.css */
-      <div className="col" id={colour} style={{backgroundColor: `${colour}`,}}>
+      <div className="col" id={colour}>
           <Link to={colour}>
 	      <div className="col-container">
 		  <p>

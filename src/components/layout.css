@@ -19,10 +19,10 @@ a {
     display: flex;
     flex-wrap: wrap;
 }
+
 .col {
     flex: 1;
     text-align: center;
-    background-color: #ffff00;
 }
 
 .col-container {
@@ -60,3 +60,44 @@ p {
 #red {
     background-color: #EB3323;
 }
+
+#blue {
+    background-color: #4FADEA;
+}
+
+#green {
+    background-color: #4FADEA;
+}
+
+#orange {
+    background-color: #4FADEA;
+}
+
+#indigo {
+    background-color: #4FADEA;
+}
+
+#violet {
+    background-color: #4FADEA;
+}
+
+#pink {
+    background-color: #4FADEA;
+}
+
+#purple {
+    background-color: #4FADEA;
+}
+
+#aqua {
+    background-color: #4FADEA;
+}
+
+#lime {
+    background-color: #4FADEA;
+}
+
+#lemon {
+    background-color: #4FADEA;
+}
+
