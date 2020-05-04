@@ -12,8 +12,8 @@ const IndexPage = () =>  {
         <>
           <SEO title="Home" />
           <Header/>
-          <div className="grid">
-            <Magicwordgroup/>
+          <div>
+              <Magicwordgroup/>
           </div>
         </>
     )
