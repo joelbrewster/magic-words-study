@@ -4,7 +4,7 @@ import EmblaCarouselReact from 'embla-carousel-react'
 
 const IndexPage = () =>  {
 
-  const colour = '#4FADEA';
+  const colour = '#BF6CF7';
   const [embla, setEmbla] = useState(null);
 
   const options = {
