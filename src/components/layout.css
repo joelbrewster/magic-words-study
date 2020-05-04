@@ -1,6 +1,6 @@
 @font-face {
     font-family:"vic";
-    src: url("/fonts/vic.woff2") format("woff2"),url("/fonts/vic.woff") format("woff"),url("/fonts/vic.ttf") format("truetype");
+    src: url("../fonts/vic.woff2") format("woff2"),url("../fonts/vic.woff") format("woff"),url("../fonts/vic.ttf") format("truetype");
 }
 
 body {
