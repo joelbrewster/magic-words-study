@@ -103,6 +103,8 @@ p {
 }
 
 svg {
+    width: 100%;
+    height: 100%;
     max-width: 65vw;
     animation: zoominoutsinglefeatured 5s infinite ;
 }
