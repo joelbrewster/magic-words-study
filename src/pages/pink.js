@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import Layout from "../components/layout"
 import EmblaCarouselReact from 'embla-carousel-react'
+import Confetti from "../components/confetti"
 
 const IndexPage = () =>  {
 
@@ -60,6 +61,9 @@ const IndexPage = () =>  {
 		      </p>
 		  </div>
 		)}
+		<div className="slide-inner slider-inner-confetti" style={{ backgroundColor: `${colour}` }}>
+                    <Confetti/>
+		</div>
 	    </div>
 	</EmblaCarouselReact>
 

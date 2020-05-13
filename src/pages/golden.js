@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import Layout from "../components/layout"
 import EmblaCarouselReact from 'embla-carousel-react'
+import Confetti from "../components/confetti"
 
 const IndexPage = () =>  {
 
@@ -38,20 +39,24 @@ const IndexPage = () =>  {
   ];
   return (
     <>
-    <EmblaCarouselReact
-    htmlTagName="div"
-    emblaRef={setEmbla}
-    options={options}
-    >
+	<EmblaCarouselReact
+	  htmlTagName="div"
+	  emblaRef={setEmbla}
+	  options={options}
+	>
 
-    <div className="slide">
-    {words.map(word =>
-      <div className="slide-inner" style={{ backgroundColor: `${colour}` }}>
-	  <p>
-	      {word}
-	  </p>
-      </div>
-    )}
+	    <div className="slide">
+		{words.map(word =>
+		  <div className="slide-inner" style={{ backgroundColor: `${colour}` }}>
+		      <p>
+			  {word}
+		      </p>
+		  </div>
+		)}
+		<div className="slide-inner slider-inner-confetti" style={{ backgroundColor: `${colour}` }}>
+                    <Confetti/>
+		</div>
+
 	    </div>
 	</EmblaCarouselReact>
 
