@@ -10,7 +10,6 @@ import Magicwordgroup from "../components/magic-word-group"
 const IndexPage = () =>  {
     return (
         <>
-          <SEO title="Home" />
           <Header/>
           <div>
               <Magicwordgroup/>
