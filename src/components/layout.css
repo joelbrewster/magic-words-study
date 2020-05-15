@@ -9,6 +9,10 @@ body {
     padding: 0;
 }
 
+h1 {
+    font-size: 3em;
+}
+
 a {
     color: black;
     text-decoration: none;
