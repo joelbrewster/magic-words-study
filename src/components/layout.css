@@ -4060,7 +4060,7 @@ svg {
     background-color: transparent;
     position: absolute;
     z-index: 1;
-    top: 50%;
+    bottom: 0;
     transform: translateY(-50%);
     border: 0;
     width: 5rem;
