@@ -5,7 +5,7 @@ import Confetti from "../components/confetti"
 
 const IndexPage = () =>  {
 
-    const colour = '#f0f0f0';
+    const colour = '#d0d0d0';
     const [embla, setEmbla] = useState(null);
 
     const options = {

@@ -100,6 +100,30 @@ p {
     background-color: #FFFFA6;
 }
 
+#tricky1 {
+    background-color: #f0f0f0;
+}
+
+#tricky2 {
+        background-color: #e0e0e0;
+}
+
+#tricky3 {
+        background-color: #d0d0d0;
+}
+
+#tricky4 {
+        background-color: #c0c0c0;
+}
+
+#tricky5 {
+        background-color: #b0b0b0;
+}
+
+#tricky6 {
+        background-color: #a0a0a0;
+}
+
 
 /* confetti */
 [class|="confetti"] {
@@ -144,15 +168,15 @@ svg {
 
 @-webkit-keyframes drop-0 {
     100% {
-	top: 110%;
-	left: 84%;
+        top: 110%;
+        left: 84%;
     }
 }
 
 @keyframes drop-0 {
     100% {
-	top: 110%;
-	left: 84%;
+        top: 110%;
+        left: 84%;
     }
 }
 .confetti-1 {
@@ -170,15 +194,15 @@ svg {
 
 @-webkit-keyframes drop-1 {
     100% {
-	top: 110%;
-	left: 30%;
+        top: 110%;
+        left: 30%;
     }
 }
 
 @keyframes drop-1 {
     100% {
-	top: 110%;
-	left: 30%;
+        top: 110%;
+        left: 30%;
     }
 }
 .confetti-2 {
@@ -196,15 +220,15 @@ svg {
 
 @-webkit-keyframes drop-2 {
     100% {
-	top: 110%;
-	left: 40%;
+        top: 110%;
+        left: 40%;
     }
 }
 
 @keyframes drop-2 {
     100% {
-	top: 110%;
-	left: 40%;
+        top: 110%;
+        left: 40%;
     }
 }
 .confetti-3 {
@@ -222,15 +246,15 @@ svg {
 
 @-webkit-keyframes drop-3 {
     100% {
-	top: 110%;
-	left: 49%;
+        top: 110%;
+        left: 49%;
     }
 }
 
 @keyframes drop-3 {
     100% {
-	top: 110%;
-	left: 49%;
+        top: 110%;
+        left: 49%;
     }
 }
 .confetti-4 {
@@ -248,15 +272,15 @@ svg {
 
 @-webkit-keyframes drop-4 {
     100% {
-	top: 110%;
-	left: 26%;
+        top: 110%;
+        left: 26%;
     }
 }
 
 @keyframes drop-4 {
     100% {
-	top: 110%;
-	left: 26%;
+        top: 110%;
+        left: 26%;
     }
 }
 .confetti-5 {
@@ -274,15 +298,15 @@ svg {
 
 @-webkit-keyframes drop-5 {
     100% {
-	top: 110%;
-	left: 19%;
+        top: 110%;
+        left: 19%;
     }
 }
 
 @keyframes drop-5 {
     100% {
-	top: 110%;
-	left: 19%;
+        top: 110%;
+        left: 19%;
     }
 }
 .confetti-6 {
@@ -300,15 +324,15 @@ svg {
 
 @-webkit-keyframes drop-6 {
     100% {
-	top: 110%;
-	left: 34%;
+        top: 110%;
+        left: 34%;
     }
 }
 
 @keyframes drop-6 {
     100% {
-	top: 110%;
-	left: 34%;
+        top: 110%;
+        left: 34%;
     }
 }
 .confetti-7 {
@@ -326,15 +350,15 @@ svg {
 
 @-webkit-keyframes drop-7 {
     100% {
-	top: 110%;
-	left: 98%;
+        top: 110%;
+        left: 98%;
     }
 }
 
 @keyframes drop-7 {
     100% {
-	top: 110%;
-	left: 98%;
+        top: 110%;
+        left: 98%;
     }
 }
 .confetti-8 {
@@ -352,15 +376,15 @@ svg {
 
 @-webkit-keyframes drop-8 {
     100% {
-	top: 110%;
-	left: 27%;
+        top: 110%;
+        left: 27%;
     }
 }
 
 @keyframes drop-8 {
     100% {
-	top: 110%;
-	left: 27%;
+        top: 110%;
+        left: 27%;
     }
 }
 .confetti-9 {
@@ -378,15 +402,15 @@ svg {
 
 @-webkit-keyframes drop-9 {
     100% {
-	top: 110%;
-	left: 15%;
+        top: 110%;
+        left: 15%;
     }
 }
 
 @keyframes drop-9 {
     100% {
-	top: 110%;
-	left: 15%;
+        top: 110%;
+        left: 15%;
     }
 }
 .confetti-10 {
@@ -404,15 +428,15 @@ svg {
 
 @-webkit-keyframes drop-10 {
     100% {
-	top: 110%;
-	left: 100%;
+        top: 110%;
+        left: 100%;
     }
 }
 
 @keyframes drop-10 {
     100% {
-	top: 110%;
-	left: 100%;
+        top: 110%;
+        left: 100%;
     }
 }
 .confetti-11 {
@@ -430,15 +454,15 @@ svg {
 
 @-webkit-keyframes drop-11 {
     100% {
-	top: 110%;
-	left: 37%;
+        top: 110%;
+        left: 37%;
     }
 }
 
 @keyframes drop-11 {
     100% {
-	top: 110%;
-	left: 37%;
+        top: 110%;
+        left: 37%;
     }
 }
 .confetti-12 {
@@ -456,15 +480,15 @@ svg {
 
 @-webkit-keyframes drop-12 {
     100% {
-	top: 110%;
-	left: 35%;
+        top: 110%;
+        left: 35%;
     }
 }
 
 @keyframes drop-12 {
     100% {
-	top: 110%;
-	left: 35%;
+        top: 110%;
+        left: 35%;
     }
 }
 .confetti-13 {
@@ -482,15 +506,15 @@ svg {
 
 @-webkit-keyframes drop-13 {
     100% {
-	top: 110%;
-	left: 8%;
+        top: 110%;
+        left: 8%;
     }
 }
 
 @keyframes drop-13 {
     100% {
-	top: 110%;
-	left: 8%;
+        top: 110%;
+        left: 8%;
     }
 }
 .confetti-14 {
@@ -508,15 +532,15 @@ svg {
 
 @-webkit-keyframes drop-14 {
     100% {
-	top: 110%;
-	left: 65%;
+        top: 110%;
+        left: 65%;
     }
 }
 
 @keyframes drop-14 {
     100% {
-	top: 110%;
-	left: 65%;
+        top: 110%;
+        left: 65%;
     }
 }
 .confetti-15 {
@@ -534,15 +558,15 @@ svg {
 
 @-webkit-keyframes drop-15 {
     100% {
-	top: 110%;
-	left: 38%;
+        top: 110%;
+        left: 38%;
     }
 }
 
 @keyframes drop-15 {
     100% {
-	top: 110%;
-	left: 38%;
+        top: 110%;
+        left: 38%;
     }
 }
 .confetti-16 {
@@ -560,15 +584,15 @@ svg {
 
 @-webkit-keyframes drop-16 {
     100% {
-	top: 110%;
-	left: 85%;
+        top: 110%;
+        left: 85%;
     }
 }
 
 @keyframes drop-16 {
     100% {
-	top: 110%;
-	left: 85%;
+        top: 110%;
+        left: 85%;
     }
 }
 .confetti-17 {
@@ -586,15 +610,15 @@ svg {
 
 @-webkit-keyframes drop-17 {
     100% {
-	top: 110%;
-	left: 102%;
+        top: 110%;
+        left: 102%;
     }
 }
 
 @keyframes drop-17 {
     100% {
-	top: 110%;
-	left: 102%;
+        top: 110%;
+        left: 102%;
     }
 }
 .confetti-18 {
@@ -612,15 +636,15 @@ svg {
 
 @-webkit-keyframes drop-18 {
     100% {
-	top: 110%;
-	left: 72%;
+        top: 110%;
+        left: 72%;
     }
 }
 
 @keyframes drop-18 {
     100% {
-	top: 110%;
-	left: 72%;
+        top: 110%;
+        left: 72%;
     }
 }
 .confetti-19 {
@@ -638,15 +662,15 @@ svg {
 
 @-webkit-keyframes drop-19 {
     100% {
-	top: 110%;
-	left: 85%;
+        top: 110%;
+        left: 85%;
     }
 }
 
 @keyframes drop-19 {
     100% {
-	top: 110%;
-	left: 85%;
+        top: 110%;
+        left: 85%;
     }
 }
 .confetti-20 {
@@ -664,15 +688,15 @@ svg {
 
 @-webkit-keyframes drop-20 {
     100% {
-	top: 110%;
-	left: 62%;
+        top: 110%;
+        left: 62%;
     }
 }
 
 @keyframes drop-20 {
     100% {
-	top: 110%;
-	left: 62%;
+        top: 110%;
+        left: 62%;
     }
 }
 .confetti-21 {
@@ -690,15 +714,15 @@ svg {
 
 @-webkit-keyframes drop-21 {
     100% {
-	top: 110%;
-	left: 67%;
+        top: 110%;
+        left: 67%;
     }
 }
 
 @keyframes drop-21 {
     100% {
-	top: 110%;
-	left: 67%;
+        top: 110%;
+        left: 67%;
     }
 }
 .confetti-22 {
@@ -716,15 +740,15 @@ svg {
 
 @-webkit-keyframes drop-22 {
     100% {
-	top: 110%;
-	left: 70%;
+        top: 110%;
+        left: 70%;
     }
 }
 
 @keyframes drop-22 {
     100% {
-	top: 110%;
-	left: 70%;
+        top: 110%;
+        left: 70%;
     }
 }
 .confetti-23 {
@@ -742,15 +766,15 @@ svg {
 
 @-webkit-keyframes drop-23 {
     100% {
-	top: 110%;
-	left: 89%;
+        top: 110%;
+        left: 89%;
     }
 }
 
 @keyframes drop-23 {
     100% {
-	top: 110%;
-	left: 89%;
+        top: 110%;
+        left: 89%;
     }
 }
 .confetti-24 {
@@ -768,15 +792,15 @@ svg {
 
 @-webkit-keyframes drop-24 {
     100% {
-	top: 110%;
-	left: 29%;
+        top: 110%;
+        left: 29%;
     }
 }
 
 @keyframes drop-24 {
     100% {
-	top: 110%;
-	left: 29%;
+        top: 110%;
+        left: 29%;
     }
 }
 .confetti-25 {
@@ -794,15 +818,15 @@ svg {
 
 @-webkit-keyframes drop-25 {
     100% {
-	top: 110%;
-	left: 30%;
+        top: 110%;
+        left: 30%;
     }
 }
 
 @keyframes drop-25 {
     100% {
-	top: 110%;
-	left: 30%;
+        top: 110%;
+        left: 30%;
     }
 }
 .confetti-26 {
@@ -820,15 +844,15 @@ svg {
 
 @-webkit-keyframes drop-26 {
     100% {
-	top: 110%;
-	left: 19%;
+        top: 110%;
+        left: 19%;
     }
 }
 
 @keyframes drop-26 {
     100% {
-	top: 110%;
-	left: 19%;
+        top: 110%;
+        left: 19%;
     }
 }
 .confetti-27 {
@@ -846,15 +870,15 @@ svg {
 
 @-webkit-keyframes drop-27 {
     100% {
-	top: 110%;
-	left: 69%;
+        top: 110%;
+        left: 69%;
     }
 }
 
 @keyframes drop-27 {
     100% {
-	top: 110%;
-	left: 69%;
+        top: 110%;
+        left: 69%;
     }
 }
 .confetti-28 {
@@ -872,15 +896,15 @@ svg {
 
 @-webkit-keyframes drop-28 {
     100% {
-	top: 110%;
-	left: 16%;
+        top: 110%;
+        left: 16%;
     }
 }
 
 @keyframes drop-28 {
     100% {
-	top: 110%;
-	left: 16%;
+        top: 110%;
+        left: 16%;
     }
 }
 .confetti-29 {
@@ -898,15 +922,15 @@ svg {
 
 @-webkit-keyframes drop-29 {
     100% {
-	top: 110%;
-	left: 39%;
+        top: 110%;
+        left: 39%;
     }
 }
 
 @keyframes drop-29 {
     100% {
-	top: 110%;
-	left: 39%;
+        top: 110%;
+        left: 39%;
     }
 }
 .confetti-30 {
@@ -924,15 +948,15 @@ svg {
 
 @-webkit-keyframes drop-30 {
     100% {
-	top: 110%;
-	left: 35%;
+        top: 110%;
+        left: 35%;
     }
 }
 
 @keyframes drop-30 {
     100% {
-	top: 110%;
-	left: 35%;
+        top: 110%;
+        left: 35%;
     }
 }
 .confetti-31 {
@@ -950,15 +974,15 @@ svg {
 
 @-webkit-keyframes drop-31 {
     100% {
-	top: 110%;
-	left: 62%;
+        top: 110%;
+        left: 62%;
     }
 }
 
 @keyframes drop-31 {
     100% {
-	top: 110%;
-	left: 62%;
+        top: 110%;
+        left: 62%;
     }
 }
 .confetti-32 {
@@ -976,15 +1000,15 @@ svg {
 
 @-webkit-keyframes drop-32 {
     100% {
-	top: 110%;
-	left: 109%;
+        top: 110%;
+        left: 109%;
     }
 }
 
 @keyframes drop-32 {
     100% {
-	top: 110%;
-	left: 109%;
+        top: 110%;
+        left: 109%;
     }
 }
 .confetti-33 {
@@ -1002,15 +1026,15 @@ svg {
 
 @-webkit-keyframes drop-33 {
     100% {
-	top: 110%;
-	left: 96%;
+        top: 110%;
+        left: 96%;
     }
 }
 
 @keyframes drop-33 {
     100% {
-	top: 110%;
-	left: 96%;
+        top: 110%;
+        left: 96%;
     }
 }
 .confetti-34 {
@@ -1028,15 +1052,15 @@ svg {
 
 @-webkit-keyframes drop-34 {
     100% {
-	top: 110%;
-	left: 93%;
+        top: 110%;
+        left: 93%;
     }
 }
 
 @keyframes drop-34 {
     100% {
-	top: 110%;
-	left: 93%;
+        top: 110%;
+        left: 93%;
     }
 }
 .confetti-35 {
@@ -1054,15 +1078,15 @@ svg {
 
 @-webkit-keyframes drop-35 {
     100% {
-	top: 110%;
-	left: 98%;
+        top: 110%;
+        left: 98%;
     }
 }
 
 @keyframes drop-35 {
     100% {
-	top: 110%;
-	left: 98%;
+        top: 110%;
+        left: 98%;
     }
 }
 .confetti-36 {
@@ -1080,15 +1104,15 @@ svg {
 
 @-webkit-keyframes drop-36 {
     100% {
-	top: 110%;
-	left: 75%;
+        top: 110%;
+        left: 75%;
     }
 }
 
 @keyframes drop-36 {
     100% {
-	top: 110%;
-	left: 75%;
+        top: 110%;
+        left: 75%;
     }
 }
 .confetti-37 {
@@ -1106,15 +1130,15 @@ svg {
 
 @-webkit-keyframes drop-37 {
     100% {
-	top: 110%;
-	left: 57%;
+        top: 110%;
+        left: 57%;
     }
 }
 
 @keyframes drop-37 {
     100% {
-	top: 110%;
-	left: 57%;
+        top: 110%;
+        left: 57%;
     }
 }
 .confetti-38 {
@@ -1132,15 +1156,15 @@ svg {
 
 @-webkit-keyframes drop-38 {
     100% {
-	top: 110%;
-	left: 54%;
+        top: 110%;
+        left: 54%;
     }
 }
 
 @keyframes drop-38 {
     100% {
-	top: 110%;
-	left: 54%;
+        top: 110%;
+        left: 54%;
     }
 }
 .confetti-39 {
@@ -1158,15 +1182,15 @@ svg {
 
 @-webkit-keyframes drop-39 {
     100% {
-	top: 110%;
-	left: 47%;
+        top: 110%;
+        left: 47%;
     }
 }
 
 @keyframes drop-39 {
     100% {
-	top: 110%;
-	left: 47%;
+        top: 110%;
+        left: 47%;
     }
 }
 .confetti-40 {
@@ -1184,15 +1208,15 @@ svg {
 
 @-webkit-keyframes drop-40 {
     100% {
-	top: 110%;
-	left: 55%;
+        top: 110%;
+        left: 55%;
     }
 }
 
 @keyframes drop-40 {
     100% {
-	top: 110%;
-	left: 55%;
+        top: 110%;
+        left: 55%;
     }
 }
 .confetti-41 {
@@ -1210,15 +1234,15 @@ svg {
 
 @-webkit-keyframes drop-41 {
     100% {
-	top: 110%;
-	left: 60%;
+        top: 110%;
+        left: 60%;
     }
 }
 
 @keyframes drop-41 {
     100% {
-	top: 110%;
-	left: 60%;
+        top: 110%;
+        left: 60%;
     }
 }
 .confetti-42 {
@@ -1236,15 +1260,15 @@ svg {
 
 @-webkit-keyframes drop-42 {
     100% {
-	top: 110%;
-	left: 35%;
+        top: 110%;
+        left: 35%;
     }
 }
 
 @keyframes drop-42 {
     100% {
-	top: 110%;
-	left: 35%;
+        top: 110%;
+        left: 35%;
     }
 }
 .confetti-43 {
@@ -1262,15 +1286,15 @@ svg {
 
 @-webkit-keyframes drop-43 {
     100% {
-	top: 110%;
-	left: 102%;
+        top: 110%;
+        left: 102%;
     }
 }
 
 @keyframes drop-43 {
     100% {
-	top: 110%;
-	left: 102%;
+        top: 110%;
+        left: 102%;
     }
 }
 .confetti-44 {
@@ -1288,15 +1312,15 @@ svg {
 
 @-webkit-keyframes drop-44 {
     100% {
-	top: 110%;
-	left: 7%;
+        top: 110%;
+        left: 7%;
     }
 }
 
 @keyframes drop-44 {
     100% {
-	top: 110%;
-	left: 7%;
+        top: 110%;
+        left: 7%;
     }
 }
 .confetti-45 {
@@ -1314,15 +1338,15 @@ svg {
 
 @-webkit-keyframes drop-45 {
     100% {
-	top: 110%;
-	left: 28%;
+        top: 110%;
+        left: 28%;
     }
 }
 
 @keyframes drop-45 {
     100% {
-	top: 110%;
-	left: 28%;
+        top: 110%;
+        left: 28%;
     }
 }
 .confetti-46 {
@@ -1340,15 +1364,15 @@ svg {
 
 @-webkit-keyframes drop-46 {
     100% {
-	top: 110%;
-	left: 19%;
+        top: 110%;
+        left: 19%;
     }
 }
 
 @keyframes drop-46 {
     100% {
-	top: 110%;
-	left: 19%;
+        top: 110%;
+        left: 19%;
     }
 }
 .confetti-47 {
@@ -1366,15 +1390,15 @@ svg {
 
 @-webkit-keyframes drop-47 {
     100% {
-	top: 110%;
-	left: 32%;
+        top: 110%;
+        left: 32%;
     }
 }
 
 @keyframes drop-47 {
     100% {
-	top: 110%;
-	left: 32%;
+        top: 110%;
+        left: 32%;
     }
 }
 .confetti-48 {
@@ -1392,15 +1416,15 @@ svg {
 
 @-webkit-keyframes drop-48 {
     100% {
-	top: 110%;
-	left: 78%;
+        top: 110%;
+        left: 78%;
     }
 }
 
 @keyframes drop-48 {
     100% {
-	top: 110%;
-	left: 78%;
+        top: 110%;
+        left: 78%;
     }
 }
 .confetti-49 {
@@ -1418,15 +1442,15 @@ svg {
 
 @-webkit-keyframes drop-49 {
     100% {
-	top: 110%;
-	left: 25%;
+        top: 110%;
+        left: 25%;
     }
 }
 
 @keyframes drop-49 {
     100% {
-	top: 110%;
-	left: 25%;
+        top: 110%;
+        left: 25%;
     }
 }
 .confetti-50 {
@@ -1444,15 +1468,15 @@ svg {
 
 @-webkit-keyframes drop-50 {
     100% {
-	top: 110%;
-	left: 44%;
+        top: 110%;
+        left: 44%;
     }
 }
 
 @keyframes drop-50 {
     100% {
-	top: 110%;
-	left: 44%;
+        top: 110%;
+        left: 44%;
     }
 }
 .confetti-51 {
@@ -1470,15 +1494,15 @@ svg {
 
 @-webkit-keyframes drop-51 {
     100% {
-	top: 110%;
-	left: 49%;
+        top: 110%;
+        left: 49%;
     }
 }
 
 @keyframes drop-51 {
     100% {
-	top: 110%;
-	left: 49%;
+        top: 110%;
+        left: 49%;
     }
 }
 .confetti-52 {
@@ -1496,15 +1520,15 @@ svg {
 
 @-webkit-keyframes drop-52 {
     100% {
-	top: 110%;
-	left: 11%;
+        top: 110%;
+        left: 11%;
     }
 }
 
 @keyframes drop-52 {
     100% {
-	top: 110%;
-	left: 11%;
+        top: 110%;
+        left: 11%;
     }
 }
 .confetti-53 {
@@ -1522,15 +1546,15 @@ svg {
 
 @-webkit-keyframes drop-53 {
     100% {
-	top: 110%;
-	left: 89%;
+        top: 110%;
+        left: 89%;
     }
 }
 
 @keyframes drop-53 {
     100% {
-	top: 110%;
-	left: 89%;
+        top: 110%;
+        left: 89%;
     }
 }
 .confetti-54 {
@@ -1548,15 +1572,15 @@ svg {
 
 @-webkit-keyframes drop-54 {
     100% {
-	top: 110%;
-	left: 92%;
+        top: 110%;
+        left: 92%;
     }
 }
 
 @keyframes drop-54 {
     100% {
-	top: 110%;
-	left: 92%;
+        top: 110%;
+        left: 92%;
     }
 }
 .confetti-55 {
@@ -1574,15 +1598,15 @@ svg {
 
 @-webkit-keyframes drop-55 {
     100% {
-	top: 110%;
-	left: 17%;
+        top: 110%;
+        left: 17%;
     }
 }
 
 @keyframes drop-55 {
     100% {
-	top: 110%;
-	left: 17%;
+        top: 110%;
+        left: 17%;
     }
 }
 .confetti-56 {
@@ -1600,15 +1624,15 @@ svg {
 
 @-webkit-keyframes drop-56 {
     100% {
-	top: 110%;
-	left: 56%;
+        top: 110%;
+        left: 56%;
     }
 }
 
 @keyframes drop-56 {
     100% {
-	top: 110%;
-	left: 56%;
+        top: 110%;
+        left: 56%;
     }
 }
 .confetti-57 {
@@ -1626,15 +1650,15 @@ svg {
 
 @-webkit-keyframes drop-57 {
     100% {
-	top: 110%;
-	left: 19%;
+        top: 110%;
+        left: 19%;
     }
 }
 
 @keyframes drop-57 {
     100% {
-	top: 110%;
-	left: 19%;
+        top: 110%;
+        left: 19%;
     }
 }
 .confetti-58 {
@@ -1652,15 +1676,15 @@ svg {
 
 @-webkit-keyframes drop-58 {
     100% {
-	top: 110%;
-	left: 83%;
+        top: 110%;
+        left: 83%;
     }
 }
 
 @keyframes drop-58 {
     100% {
-	top: 110%;
-	left: 83%;
+        top: 110%;
+        left: 83%;
     }
 }
 .confetti-59 {
@@ -1678,15 +1702,15 @@ svg {
 
 @-webkit-keyframes drop-59 {
     100% {
-	top: 110%;
-	left: 20%;
+        top: 110%;
+        left: 20%;
     }
 }
 
 @keyframes drop-59 {
     100% {
-	top: 110%;
-	left: 20%;
+        top: 110%;
+        left: 20%;
     }
 }
 .confetti-60 {
@@ -1704,15 +1728,15 @@ svg {
 
 @-webkit-keyframes drop-60 {
     100% {
-	top: 110%;
-	left: 22%;
+        top: 110%;
+        left: 22%;
     }
 }
 
 @keyframes drop-60 {
     100% {
-	top: 110%;
-	left: 22%;
+        top: 110%;
+        left: 22%;
     }
 }
 .confetti-61 {
@@ -1730,15 +1754,15 @@ svg {
 
 @-webkit-keyframes drop-61 {
     100% {
-	top: 110%;
-	left: 24%;
+        top: 110%;
+        left: 24%;
     }
 }
 
 @keyframes drop-61 {
     100% {
-	top: 110%;
-	left: 24%;
+        top: 110%;
+        left: 24%;
     }
 }
 .confetti-62 {
@@ -1756,15 +1780,15 @@ svg {
 
 @-webkit-keyframes drop-62 {
     100% {
-	top: 110%;
-	left: 21%;
+        top: 110%;
+        left: 21%;
     }
 }
 
 @keyframes drop-62 {
     100% {
-	top: 110%;
-	left: 21%;
+        top: 110%;
+        left: 21%;
     }
 }
 .confetti-63 {
@@ -1782,15 +1806,15 @@ svg {
 
 @-webkit-keyframes drop-63 {
     100% {
-	top: 110%;
-	left: 89%;
+        top: 110%;
+        left: 89%;
     }
 }
 
 @keyframes drop-63 {
     100% {
-	top: 110%;
-	left: 89%;
+        top: 110%;
+        left: 89%;
     }
 }
 .confetti-64 {
@@ -1808,15 +1832,15 @@ svg {
 
 @-webkit-keyframes drop-64 {
     100% {
-	top: 110%;
-	left: 48%;
+        top: 110%;
+        left: 48%;
     }
 }
 
 @keyframes drop-64 {
     100% {
-	top: 110%;
-	left: 48%;
+        top: 110%;
+        left: 48%;
     }
 }
 .confetti-65 {
@@ -1834,15 +1858,15 @@ svg {
 
 @-webkit-keyframes drop-65 {
     100% {
-	top: 110%;
-	left: 38%;
+        top: 110%;
+        left: 38%;
     }
 }
 
 @keyframes drop-65 {
     100% {
-	top: 110%;
-	left: 38%;
+        top: 110%;
+        left: 38%;
     }
 }
 .confetti-66 {
@@ -1860,15 +1884,15 @@ svg {
 
 @-webkit-keyframes drop-66 {
     100% {
-	top: 110%;
-	left: 105%;
+        top: 110%;
+        left: 105%;
     }
 }
 
 @keyframes drop-66 {
     100% {
-	top: 110%;
-	left: 105%;
+        top: 110%;
+        left: 105%;
     }
 }
 .confetti-67 {
@@ -1886,15 +1910,15 @@ svg {
 
 @-webkit-keyframes drop-67 {
     100% {
-	top: 110%;
-	left: 36%;
+        top: 110%;
+        left: 36%;
     }
 }
 
 @keyframes drop-67 {
     100% {
-	top: 110%;
-	left: 36%;
+        top: 110%;
+        left: 36%;
     }
 }
 .confetti-68 {
@@ -1912,15 +1936,15 @@ svg {
 
 @-webkit-keyframes drop-68 {
     100% {
-	top: 110%;
-	left: 46%;
+        top: 110%;
+        left: 46%;
     }
 }
 
 @keyframes drop-68 {
     100% {
-	top: 110%;
-	left: 46%;
+        top: 110%;
+        left: 46%;
     }
 }
 .confetti-69 {
@@ -1938,15 +1962,15 @@ svg {
 
 @-webkit-keyframes drop-69 {
     100% {
-	top: 110%;
-	left: 99%;
+        top: 110%;
+        left: 99%;
     }
 }
 
 @keyframes drop-69 {
     100% {
-	top: 110%;
-	left: 99%;
+        top: 110%;
+        left: 99%;
     }
 }
 .confetti-70 {
@@ -1964,15 +1988,15 @@ svg {
 
 @-webkit-keyframes drop-70 {
     100% {
-	top: 110%;
-	left: 64%;
+        top: 110%;
+        left: 64%;
     }
 }
 
 @keyframes drop-70 {
     100% {
-	top: 110%;
-	left: 64%;
+        top: 110%;
+        left: 64%;
     }
 }
 .confetti-71 {
@@ -1990,15 +2014,15 @@ svg {
 
 @-webkit-keyframes drop-71 {
     100% {
-	top: 110%;
-	left: 19%;
+        top: 110%;
+        left: 19%;
     }
 }
 
 @keyframes drop-71 {
     100% {
-	top: 110%;
-	left: 19%;
+        top: 110%;
+        left: 19%;
     }
 }
 .confetti-72 {
@@ -2016,15 +2040,15 @@ svg {
 
 @-webkit-keyframes drop-72 {
     100% {
-	top: 110%;
-	left: 86%;
+        top: 110%;
+        left: 86%;
     }
 }
 
 @keyframes drop-72 {
     100% {
-	top: 110%;
-	left: 86%;
+        top: 110%;
+        left: 86%;
     }
 }
 .confetti-73 {
@@ -2042,15 +2066,15 @@ svg {
 
 @-webkit-keyframes drop-73 {
     100% {
-	top: 110%;
-	left: 103%;
+        top: 110%;
+        left: 103%;
     }
 }
 
 @keyframes drop-73 {
     100% {
-	top: 110%;
-	left: 103%;
+        top: 110%;
+        left: 103%;
     }
 }
 .confetti-74 {
@@ -2068,15 +2092,15 @@ svg {
 
 @-webkit-keyframes drop-74 {
     100% {
-	top: 110%;
-	left: 70%;
+        top: 110%;
+        left: 70%;
     }
 }
 
 @keyframes drop-74 {
     100% {
-	top: 110%;
-	left: 70%;
+        top: 110%;
+        left: 70%;
     }
 }
 .confetti-75 {
@@ -2094,15 +2118,15 @@ svg {
 
 @-webkit-keyframes drop-75 {
     100% {
-	top: 110%;
-	left: 79%;
+        top: 110%;
+        left: 79%;
     }
 }
 
 @keyframes drop-75 {
     100% {
-	top: 110%;
-	left: 79%;
+        top: 110%;
+        left: 79%;
     }
 }
 .confetti-76 {
@@ -2120,15 +2144,15 @@ svg {
 
 @-webkit-keyframes drop-76 {
     100% {
-	top: 110%;
-	left: 57%;
+        top: 110%;
+        left: 57%;
     }
 }
 
 @keyframes drop-76 {
     100% {
-	top: 110%;
-	left: 57%;
+        top: 110%;
+        left: 57%;
     }
 }
 .confetti-77 {
@@ -2146,15 +2170,15 @@ svg {
 
 @-webkit-keyframes drop-77 {
     100% {
-	top: 110%;
-	left: 76%;
+        top: 110%;
+        left: 76%;
     }
 }
 
 @keyframes drop-77 {
     100% {
-	top: 110%;
-	left: 76%;
+        top: 110%;
+        left: 76%;
     }
 }
 .confetti-78 {
@@ -2172,15 +2196,15 @@ svg {
 
 @-webkit-keyframes drop-78 {
     100% {
-	top: 110%;
-	left: 98%;
+        top: 110%;
+        left: 98%;
     }
 }
 
 @keyframes drop-78 {
     100% {
-	top: 110%;
-	left: 98%;
+        top: 110%;
+        left: 98%;
     }
 }
 .confetti-79 {
@@ -2198,15 +2222,15 @@ svg {
 
 @-webkit-keyframes drop-79 {
     100% {
-	top: 110%;
-	left: 57%;
+        top: 110%;
+        left: 57%;
     }
 }
 
 @keyframes drop-79 {
     100% {
-	top: 110%;
-	left: 57%;
+        top: 110%;
+        left: 57%;
     }
 }
 .confetti-80 {
@@ -2224,15 +2248,15 @@ svg {
 
 @-webkit-keyframes drop-80 {
     100% {
-	top: 110%;
-	left: 63%;
+        top: 110%;
+        left: 63%;
     }
 }
 
 @keyframes drop-80 {
     100% {
-	top: 110%;
-	left: 63%;
+        top: 110%;
+        left: 63%;
     }
 }
 .confetti-81 {
@@ -2250,15 +2274,15 @@ svg {
 
 @-webkit-keyframes drop-81 {
     100% {
-	top: 110%;
-	left: 58%;
+        top: 110%;
+        left: 58%;
     }
 }
 
 @keyframes drop-81 {
     100% {
-	top: 110%;
-	left: 58%;
+        top: 110%;
+        left: 58%;
     }
 }
 .confetti-82 {
@@ -2276,15 +2300,15 @@ svg {
 
 @-webkit-keyframes drop-82 {
     100% {
-	top: 110%;
-	left: 58%;
+        top: 110%;
+        left: 58%;
     }
 }
 
 @keyframes drop-82 {
     100% {
-	top: 110%;
-	left: 58%;
+        top: 110%;
+        left: 58%;
     }
 }
 .confetti-83 {
@@ -2302,15 +2326,15 @@ svg {
 
 @-webkit-keyframes drop-83 {
     100% {
-	top: 110%;
-	left: 103%;
+        top: 110%;
+        left: 103%;
     }
 }
 
 @keyframes drop-83 {
     100% {
-	top: 110%;
-	left: 103%;
+        top: 110%;
+        left: 103%;
     }
 }
 .confetti-84 {
@@ -2328,15 +2352,15 @@ svg {
 
 @-webkit-keyframes drop-84 {
     100% {
-	top: 110%;
-	left: 42%;
+        top: 110%;
+        left: 42%;
     }
 }
 
 @keyframes drop-84 {
     100% {
-	top: 110%;
-	left: 42%;
+        top: 110%;
+        left: 42%;
     }
 }
 .confetti-85 {
@@ -2354,15 +2378,15 @@ svg {
 
 @-webkit-keyframes drop-85 {
     100% {
-	top: 110%;
-	left: 27%;
+        top: 110%;
+        left: 27%;
     }
 }
 
 @keyframes drop-85 {
     100% {
-	top: 110%;
-	left: 27%;
+        top: 110%;
+        left: 27%;
     }
 }
 .confetti-86 {
@@ -2380,15 +2404,15 @@ svg {
 
 @-webkit-keyframes drop-86 {
     100% {
-	top: 110%;
-	left: 59%;
+        top: 110%;
+        left: 59%;
     }
 }
 
 @keyframes drop-86 {
     100% {
-	top: 110%;
-	left: 59%;
+        top: 110%;
+        left: 59%;
     }
 }
 .confetti-87 {
@@ -2406,15 +2430,15 @@ svg {
 
 @-webkit-keyframes drop-87 {
     100% {
-	top: 110%;
-	left: 9%;
+        top: 110%;
+        left: 9%;
     }
 }
 
 @keyframes drop-87 {
     100% {
-	top: 110%;
-	left: 9%;
+        top: 110%;
+        left: 9%;
     }
 }
 .confetti-88 {
@@ -2432,15 +2456,15 @@ svg {
 
 @-webkit-keyframes drop-88 {
     100% {
-	top: 110%;
-	left: 47%;
+        top: 110%;
+        left: 47%;
     }
 }
 
 @keyframes drop-88 {
     100% {
-	top: 110%;
-	left: 47%;
+        top: 110%;
+        left: 47%;
     }
 }
 .confetti-89 {
@@ -2458,15 +2482,15 @@ svg {
 
 @-webkit-keyframes drop-89 {
     100% {
-	top: 110%;
-	left: 5%;
+        top: 110%;
+        left: 5%;
     }
 }
 
 @keyframes drop-89 {
     100% {
-	top: 110%;
-	left: 5%;
+        top: 110%;
+        left: 5%;
     }
 }
 .confetti-90 {
@@ -2484,15 +2508,15 @@ svg {
 
 @-webkit-keyframes drop-90 {
     100% {
-	top: 110%;
-	left: 79%;
+        top: 110%;
+        left: 79%;
     }
 }
 
 @keyframes drop-90 {
     100% {
-	top: 110%;
-	left: 79%;
+        top: 110%;
+        left: 79%;
     }
 }
 .confetti-91 {
@@ -2510,15 +2534,15 @@ svg {
 
 @-webkit-keyframes drop-91 {
     100% {
-	top: 110%;
-	left: 102%;
+        top: 110%;
+        left: 102%;
     }
 }
 
 @keyframes drop-91 {
     100% {
-	top: 110%;
-	left: 102%;
+        top: 110%;
+        left: 102%;
     }
 }
 .confetti-92 {
@@ -2536,15 +2560,15 @@ svg {
 
 @-webkit-keyframes drop-92 {
     100% {
-	top: 110%;
-	left: 78%;
+        top: 110%;
+        left: 78%;
     }
 }
 
 @keyframes drop-92 {
     100% {
-	top: 110%;
-	left: 78%;
+        top: 110%;
+        left: 78%;
     }
 }
 .confetti-93 {
@@ -2562,15 +2586,15 @@ svg {
 
 @-webkit-keyframes drop-93 {
     100% {
-	top: 110%;
-	left: 65%;
+        top: 110%;
+        left: 65%;
     }
 }
 
 @keyframes drop-93 {
     100% {
-	top: 110%;
-	left: 65%;
+        top: 110%;
+        left: 65%;
     }
 }
 .confetti-94 {
@@ -2588,15 +2612,15 @@ svg {
 
 @-webkit-keyframes drop-94 {
     100% {
-	top: 110%;
-	left: 80%;
+        top: 110%;
+        left: 80%;
     }
 }
 
 @keyframes drop-94 {
     100% {
-	top: 110%;
-	left: 80%;
+        top: 110%;
+        left: 80%;
     }
 }
 .confetti-95 {
@@ -2614,15 +2638,15 @@ svg {
 
 @-webkit-keyframes drop-95 {
     100% {
-	top: 110%;
-	left: 11%;
+        top: 110%;
+        left: 11%;
     }
 }
 
 @keyframes drop-95 {
     100% {
-	top: 110%;
-	left: 11%;
+        top: 110%;
+        left: 11%;
     }
 }
 .confetti-96 {
@@ -2640,15 +2664,15 @@ svg {
 
 @-webkit-keyframes drop-96 {
     100% {
-	top: 110%;
-	left: 99%;
+        top: 110%;
+        left: 99%;
     }
 }
 
 @keyframes drop-96 {
     100% {
-	top: 110%;
-	left: 99%;
+        top: 110%;
+        left: 99%;
     }
 }
 .confetti-97 {
@@ -2666,15 +2690,15 @@ svg {
 
 @-webkit-keyframes drop-97 {
     100% {
-	top: 110%;
-	left: 91%;
+        top: 110%;
+        left: 91%;
     }
 }
 
 @keyframes drop-97 {
     100% {
-	top: 110%;
-	left: 91%;
+        top: 110%;
+        left: 91%;
     }
 }
 .confetti-98 {
@@ -2692,15 +2716,15 @@ svg {
 
 @-webkit-keyframes drop-98 {
     100% {
-	top: 110%;
-	left: 7%;
+        top: 110%;
+        left: 7%;
     }
 }
 
 @keyframes drop-98 {
     100% {
-	top: 110%;
-	left: 7%;
+        top: 110%;
+        left: 7%;
     }
 }
 .confetti-99 {
@@ -2718,15 +2742,15 @@ svg {
 
 @-webkit-keyframes drop-99 {
     100% {
-	top: 110%;
-	left: 77%;
+        top: 110%;
+        left: 77%;
     }
 }
 
 @keyframes drop-99 {
     100% {
-	top: 110%;
-	left: 77%;
+        top: 110%;
+        left: 77%;
     }
 }
 .confetti-100 {
@@ -2744,15 +2768,15 @@ svg {
 
 @-webkit-keyframes drop-100 {
     100% {
-	top: 110%;
-	left: 82%;
+        top: 110%;
+        left: 82%;
     }
 }
 
 @keyframes drop-100 {
     100% {
-	top: 110%;
-	left: 82%;
+        top: 110%;
+        left: 82%;
     }
 }
 .confetti-101 {
@@ -2770,15 +2794,15 @@ svg {
 
 @-webkit-keyframes drop-101 {
     100% {
-	top: 110%;
-	left: 22%;
+        top: 110%;
+        left: 22%;
     }
 }
 
 @keyframes drop-101 {
     100% {
-	top: 110%;
-	left: 22%;
+        top: 110%;
+        left: 22%;
     }
 }
 .confetti-102 {
@@ -2796,15 +2820,15 @@ svg {
 
 @-webkit-keyframes drop-102 {
     100% {
-	top: 110%;
-	left: 55%;
+        top: 110%;
+        left: 55%;
     }
 }
 
 @keyframes drop-102 {
     100% {
-	top: 110%;
-	left: 55%;
+        top: 110%;
+        left: 55%;
     }
 }
 .confetti-103 {
@@ -2822,15 +2846,15 @@ svg {
 
 @-webkit-keyframes drop-103 {
     100% {
-	top: 110%;
-	left: 70%;
+        top: 110%;
+        left: 70%;
     }
 }
 
 @keyframes drop-103 {
     100% {
-	top: 110%;
-	left: 70%;
+        top: 110%;
+        left: 70%;
     }
 }
 .confetti-104 {
@@ -2848,15 +2872,15 @@ svg {
 
 @-webkit-keyframes drop-104 {
     100% {
-	top: 110%;
-	left: 21%;
+        top: 110%;
+        left: 21%;
     }
 }
 
 @keyframes drop-104 {
     100% {
-	top: 110%;
-	left: 21%;
+        top: 110%;
+        left: 21%;
     }
 }
 .confetti-105 {
@@ -2874,15 +2898,15 @@ svg {
 
 @-webkit-keyframes drop-105 {
     100% {
-	top: 110%;
-	left: 54%;
+        top: 110%;
+        left: 54%;
     }
 }
 
 @keyframes drop-105 {
     100% {
-	top: 110%;
-	left: 54%;
+        top: 110%;
+        left: 54%;
     }
 }
 .confetti-106 {
@@ -2900,15 +2924,15 @@ svg {
 
 @-webkit-keyframes drop-106 {
     100% {
-	top: 110%;
-	left: 94%;
+        top: 110%;
+        left: 94%;
     }
 }
 
 @keyframes drop-106 {
     100% {
-	top: 110%;
-	left: 94%;
+        top: 110%;
+        left: 94%;
     }
 }
 .confetti-107 {
@@ -2926,15 +2950,15 @@ svg {
 
 @-webkit-keyframes drop-107 {
     100% {
-	top: 110%;
-	left: 66%;
+        top: 110%;
+        left: 66%;
     }
 }
 
 @keyframes drop-107 {
     100% {
-	top: 110%;
-	left: 66%;
+        top: 110%;
+        left: 66%;
     }
 }
 .confetti-108 {
@@ -2952,15 +2976,15 @@ svg {
 
 @-webkit-keyframes drop-108 {
     100% {
-	top: 110%;
-	left: 58%;
+        top: 110%;
+        left: 58%;
     }
 }
 
 @keyframes drop-108 {
     100% {
-	top: 110%;
-	left: 58%;
+        top: 110%;
+        left: 58%;
     }
 }
 .confetti-109 {
@@ -2978,15 +3002,15 @@ svg {
 
 @-webkit-keyframes drop-109 {
     100% {
-	top: 110%;
-	left: 79%;
+        top: 110%;
+        left: 79%;
     }
 }
 
 @keyframes drop-109 {
     100% {
-	top: 110%;
-	left: 79%;
+        top: 110%;
+        left: 79%;
     }
 }
 .confetti-110 {
@@ -3004,15 +3028,15 @@ svg {
 
 @-webkit-keyframes drop-110 {
     100% {
-	top: 110%;
-	left: 102%;
+        top: 110%;
+        left: 102%;
     }
 }
 
 @keyframes drop-110 {
     100% {
-	top: 110%;
-	left: 102%;
+        top: 110%;
+        left: 102%;
     }
 }
 .confetti-111 {
@@ -3030,15 +3054,15 @@ svg {
 
 @-webkit-keyframes drop-111 {
     100% {
-	top: 110%;
-	left: 65%;
+        top: 110%;
+        left: 65%;
     }
 }
 
 @keyframes drop-111 {
     100% {
-	top: 110%;
-	left: 65%;
+        top: 110%;
+        left: 65%;
     }
 }
 .confetti-112 {
@@ -3056,15 +3080,15 @@ svg {
 
 @-webkit-keyframes drop-112 {
     100% {
-	top: 110%;
-	left: 33%;
+        top: 110%;
+        left: 33%;
     }
 }
 
 @keyframes drop-112 {
     100% {
-	top: 110%;
-	left: 33%;
+        top: 110%;
+        left: 33%;
     }
 }
 .confetti-113 {
@@ -3082,15 +3106,15 @@ svg {
 
 @-webkit-keyframes drop-113 {
     100% {
-	top: 110%;
-	left: 22%;
+        top: 110%;
+        left: 22%;
     }
 }
 
 @keyframes drop-113 {
     100% {
-	top: 110%;
-	left: 22%;
+        top: 110%;
+        left: 22%;
     }
 }
 .confetti-114 {
@@ -3108,15 +3132,15 @@ svg {
 
 @-webkit-keyframes drop-114 {
     100% {
-	top: 110%;
-	left: 44%;
+        top: 110%;
+        left: 44%;
     }
 }
 
 @keyframes drop-114 {
     100% {
-	top: 110%;
-	left: 44%;
+        top: 110%;
+        left: 44%;
     }
 }
 .confetti-115 {
@@ -3134,15 +3158,15 @@ svg {
 
 @-webkit-keyframes drop-115 {
     100% {
-	top: 110%;
-	left: 65%;
+        top: 110%;
+        left: 65%;
     }
 }
 
 @keyframes drop-115 {
     100% {
-	top: 110%;
-	left: 65%;
+        top: 110%;
+        left: 65%;
     }
 }
 .confetti-116 {
@@ -3160,15 +3184,15 @@ svg {
 
 @-webkit-keyframes drop-116 {
     100% {
-	top: 110%;
-	left: 6%;
+        top: 110%;
+        left: 6%;
     }
 }
 
 @keyframes drop-116 {
     100% {
-	top: 110%;
-	left: 6%;
+        top: 110%;
+        left: 6%;
     }
 }
 .confetti-117 {
@@ -3186,15 +3210,15 @@ svg {
 
 @-webkit-keyframes drop-117 {
     100% {
-	top: 110%;
-	left: 19%;
+        top: 110%;
+        left: 19%;
     }
 }
 
 @keyframes drop-117 {
     100% {
-	top: 110%;
-	left: 19%;
+        top: 110%;
+        left: 19%;
     }
 }
 .confetti-118 {
@@ -3212,15 +3236,15 @@ svg {
 
 @-webkit-keyframes drop-118 {
     100% {
-	top: 110%;
-	left: 74%;
+        top: 110%;
+        left: 74%;
     }
 }
 
 @keyframes drop-118 {
     100% {
-	top: 110%;
-	left: 74%;
+        top: 110%;
+        left: 74%;
     }
 }
 .confetti-119 {
@@ -3238,15 +3262,15 @@ svg {
 
 @-webkit-keyframes drop-119 {
     100% {
-	top: 110%;
-	left: 52%;
+        top: 110%;
+        left: 52%;
     }
 }
 
 @keyframes drop-119 {
     100% {
-	top: 110%;
-	left: 52%;
+        top: 110%;
+        left: 52%;
     }
 }
 .confetti-120 {
@@ -3264,15 +3288,15 @@ svg {
 
 @-webkit-keyframes drop-120 {
     100% {
-	top: 110%;
-	left: 100%;
+        top: 110%;
+        left: 100%;
     }
 }
 
 @keyframes drop-120 {
     100% {
-	top: 110%;
-	left: 100%;
+        top: 110%;
+        left: 100%;
     }
 }
 .confetti-121 {
@@ -3290,15 +3314,15 @@ svg {
 
 @-webkit-keyframes drop-121 {
     100% {
-	top: 110%;
-	left: 46%;
+        top: 110%;
+        left: 46%;
     }
 }
 
 @keyframes drop-121 {
     100% {
-	top: 110%;
-	left: 46%;
+        top: 110%;
+        left: 46%;
     }
 }
 .confetti-122 {
@@ -3316,15 +3340,15 @@ svg {
 
 @-webkit-keyframes drop-122 {
     100% {
-	top: 110%;
-	left: 40%;
+        top: 110%;
+        left: 40%;
     }
 }
 
 @keyframes drop-122 {
     100% {
-	top: 110%;
-	left: 40%;
+        top: 110%;
+        left: 40%;
     }
 }
 .confetti-123 {
@@ -3342,15 +3366,15 @@ svg {
 
 @-webkit-keyframes drop-123 {
     100% {
-	top: 110%;
-	left: 62%;
+        top: 110%;
+        left: 62%;
     }
 }
 
 @keyframes drop-123 {
     100% {
-	top: 110%;
-	left: 62%;
+        top: 110%;
+        left: 62%;
     }
 }
 .confetti-124 {
@@ -3368,15 +3392,15 @@ svg {
 
 @-webkit-keyframes drop-124 {
     100% {
-	top: 110%;
-	left: 61%;
+        top: 110%;
+        left: 61%;
     }
 }
 
 @keyframes drop-124 {
     100% {
-	top: 110%;
-	left: 61%;
+        top: 110%;
+        left: 61%;
     }
 }
 .confetti-125 {
@@ -3394,15 +3418,15 @@ svg {
 
 @-webkit-keyframes drop-125 {
     100% {
-	top: 110%;
-	left: 72%;
+        top: 110%;
+        left: 72%;
     }
 }
 
 @keyframes drop-125 {
     100% {
-	top: 110%;
-	left: 72%;
+        top: 110%;
+        left: 72%;
     }
 }
 .confetti-126 {
@@ -3420,15 +3444,15 @@ svg {
 
 @-webkit-keyframes drop-126 {
     100% {
-	top: 110%;
-	left: 23%;
+        top: 110%;
+        left: 23%;
     }
 }
 
 @keyframes drop-126 {
     100% {
-	top: 110%;
-	left: 23%;
+        top: 110%;
+        left: 23%;
     }
 }
 .confetti-127 {
@@ -3446,15 +3470,15 @@ svg {
 
 @-webkit-keyframes drop-127 {
     100% {
-	top: 110%;
-	left: 37%;
+        top: 110%;
+        left: 37%;
     }
 }
 
 @keyframes drop-127 {
     100% {
-	top: 110%;
-	left: 37%;
+        top: 110%;
+        left: 37%;
     }
 }
 .confetti-128 {
@@ -3472,15 +3496,15 @@ svg {
 
 @-webkit-keyframes drop-128 {
     100% {
-	top: 110%;
-	left: 23%;
+        top: 110%;
+        left: 23%;
     }
 }
 
 @keyframes drop-128 {
     100% {
-	top: 110%;
-	left: 23%;
+        top: 110%;
+        left: 23%;
     }
 }
 .confetti-129 {
@@ -3498,15 +3522,15 @@ svg {
 
 @-webkit-keyframes drop-129 {
     100% {
-	top: 110%;
-	left: 98%;
+        top: 110%;
+        left: 98%;
     }
 }
 
 @keyframes drop-129 {
     100% {
-	top: 110%;
-	left: 98%;
+        top: 110%;
+        left: 98%;
     }
 }
 .confetti-130 {
@@ -3524,15 +3548,15 @@ svg {
 
 @-webkit-keyframes drop-130 {
     100% {
-	top: 110%;
-	left: 22%;
+        top: 110%;
+        left: 22%;
     }
 }
 
 @keyframes drop-130 {
     100% {
-	top: 110%;
-	left: 22%;
+        top: 110%;
+        left: 22%;
     }
 }
 .confetti-131 {
@@ -3550,15 +3574,15 @@ svg {
 
 @-webkit-keyframes drop-131 {
     100% {
-	top: 110%;
-	left: 12%;
+        top: 110%;
+        left: 12%;
     }
 }
 
 @keyframes drop-131 {
     100% {
-	top: 110%;
-	left: 12%;
+        top: 110%;
+        left: 12%;
     }
 }
 .confetti-132 {
@@ -3576,15 +3600,15 @@ svg {
 
 @-webkit-keyframes drop-132 {
     100% {
-	top: 110%;
-	left: 69%;
+        top: 110%;
+        left: 69%;
     }
 }
 
 @keyframes drop-132 {
     100% {
-	top: 110%;
-	left: 69%;
+        top: 110%;
+        left: 69%;
     }
 }
 .confetti-133 {
@@ -3602,15 +3626,15 @@ svg {
 
 @-webkit-keyframes drop-133 {
     100% {
-	top: 110%;
-	left: 60%;
+        top: 110%;
+        left: 60%;
     }
 }
 
 @keyframes drop-133 {
     100% {
-	top: 110%;
-	left: 60%;
+        top: 110%;
+        left: 60%;
     }
 }
 .confetti-134 {
@@ -3628,15 +3652,15 @@ svg {
 
 @-webkit-keyframes drop-134 {
     100% {
-	top: 110%;
-	left: 60%;
+        top: 110%;
+        left: 60%;
     }
 }
 
 @keyframes drop-134 {
     100% {
-	top: 110%;
-	left: 60%;
+        top: 110%;
+        left: 60%;
     }
 }
 .confetti-135 {
@@ -3654,15 +3678,15 @@ svg {
 
 @-webkit-keyframes drop-135 {
     100% {
-	top: 110%;
-	left: 103%;
+        top: 110%;
+        left: 103%;
     }
 }
 
 @keyframes drop-135 {
     100% {
-	top: 110%;
-	left: 103%;
+        top: 110%;
+        left: 103%;
     }
 }
 .confetti-136 {
@@ -3680,15 +3704,15 @@ svg {
 
 @-webkit-keyframes drop-136 {
     100% {
-	top: 110%;
-	left: 106%;
+        top: 110%;
+        left: 106%;
     }
 }
 
 @keyframes drop-136 {
     100% {
-	top: 110%;
-	left: 106%;
+        top: 110%;
+        left: 106%;
     }
 }
 .confetti-137 {
@@ -3706,15 +3730,15 @@ svg {
 
 @-webkit-keyframes drop-137 {
     100% {
-	top: 110%;
-	left: 28%;
+        top: 110%;
+        left: 28%;
     }
 }
 
 @keyframes drop-137 {
     100% {
-	top: 110%;
-	left: 28%;
+        top: 110%;
+        left: 28%;
     }
 }
 .confetti-138 {
@@ -3732,15 +3756,15 @@ svg {
 
 @-webkit-keyframes drop-138 {
     100% {
-	top: 110%;
-	left: 36%;
+        top: 110%;
+        left: 36%;
     }
 }
 
 @keyframes drop-138 {
     100% {
-	top: 110%;
-	left: 36%;
+        top: 110%;
+        left: 36%;
     }
 }
 .confetti-139 {
@@ -3758,15 +3782,15 @@ svg {
 
 @-webkit-keyframes drop-139 {
     100% {
-	top: 110%;
-	left: 19%;
+        top: 110%;
+        left: 19%;
     }
 }
 
 @keyframes drop-139 {
     100% {
-	top: 110%;
-	left: 19%;
+        top: 110%;
+        left: 19%;
     }
 }
 .confetti-140 {
@@ -3784,15 +3808,15 @@ svg {
 
 @-webkit-keyframes drop-140 {
     100% {
-	top: 110%;
-	left: 48%;
+        top: 110%;
+        left: 48%;
     }
 }
 
 @keyframes drop-140 {
     100% {
-	top: 110%;
-	left: 48%;
+        top: 110%;
+        left: 48%;
     }
 }
 .confetti-141 {
@@ -3810,15 +3834,15 @@ svg {
 
 @-webkit-keyframes drop-141 {
     100% {
-	top: 110%;
-	left: 39%;
+        top: 110%;
+        left: 39%;
     }
 }
 
 @keyframes drop-141 {
     100% {
-	top: 110%;
-	left: 39%;
+        top: 110%;
+        left: 39%;
     }
 }
 .confetti-142 {
@@ -3836,15 +3860,15 @@ svg {
 
 @-webkit-keyframes drop-142 {
     100% {
-	top: 110%;
-	left: 77%;
+        top: 110%;
+        left: 77%;
     }
 }
 
 @keyframes drop-142 {
     100% {
-	top: 110%;
-	left: 77%;
+        top: 110%;
+        left: 77%;
     }
 }
 .confetti-143 {
@@ -3862,15 +3886,15 @@ svg {
 
 @-webkit-keyframes drop-143 {
     100% {
-	top: 110%;
-	left: 25%;
+        top: 110%;
+        left: 25%;
     }
 }
 
 @keyframes drop-143 {
     100% {
-	top: 110%;
-	left: 25%;
+        top: 110%;
+        left: 25%;
     }
 }
 .confetti-144 {
@@ -3888,15 +3912,15 @@ svg {
 
 @-webkit-keyframes drop-144 {
     100% {
-	top: 110%;
-	left: 37%;
+        top: 110%;
+        left: 37%;
     }
 }
 
 @keyframes drop-144 {
     100% {
-	top: 110%;
-	left: 37%;
+        top: 110%;
+        left: 37%;
     }
 }
 .confetti-145 {
@@ -3914,15 +3938,15 @@ svg {
 
 @-webkit-keyframes drop-145 {
     100% {
-	top: 110%;
-	left: 26%;
+        top: 110%;
+        left: 26%;
     }
 }
 
 @keyframes drop-145 {
     100% {
-	top: 110%;
-	left: 26%;
+        top: 110%;
+        left: 26%;
     }
 }
 .confetti-146 {
@@ -3940,15 +3964,15 @@ svg {
 
 @-webkit-keyframes drop-146 {
     100% {
-	top: 110%;
-	left: 108%;
+        top: 110%;
+        left: 108%;
     }
 }
 
 @keyframes drop-146 {
     100% {
-	top: 110%;
-	left: 108%;
+        top: 110%;
+        left: 108%;
     }
 }
 .confetti-147 {
@@ -3966,15 +3990,15 @@ svg {
 
 @-webkit-keyframes drop-147 {
     100% {
-	top: 110%;
-	left: 86%;
+        top: 110%;
+        left: 86%;
     }
 }
 
 @keyframes drop-147 {
     100% {
-	top: 110%;
-	left: 86%;
+        top: 110%;
+        left: 86%;
     }
 }
 .confetti-148 {
@@ -3992,15 +4016,15 @@ svg {
 
 @-webkit-keyframes drop-148 {
     100% {
-	top: 110%;
-	left: 85%;
+        top: 110%;
+        left: 85%;
     }
 }
 
 @keyframes drop-148 {
     100% {
-	top: 110%;
-	left: 85%;
+        top: 110%;
+        left: 85%;
     }
 }
 .confetti-149 {
@@ -4018,15 +4042,15 @@ svg {
 
 @-webkit-keyframes drop-149 {
     100% {
-	top: 110%;
-	left: 59%;
+        top: 110%;
+        left: 59%;
     }
 }
 
 @keyframes drop-149 {
     100% {
-	top: 110%;
-	left: 59%;
+        top: 110%;
+        left: 59%;
     }
 }
 .confetti-150 {
@@ -4044,15 +4068,15 @@ svg {
 
 @-webkit-keyframes drop-150 {
     100% {
-	top: 110%;
-	left: 35%;
+        top: 110%;
+        left: 35%;
     }
 }
 
 @keyframes drop-150 {
     100% {
-	top: 110%;
-	left: 35%;
+        top: 110%;
+        left: 35%;
     }
 }
 
