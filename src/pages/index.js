@@ -12,7 +12,7 @@ const IndexPage = () =>  {
         <>
           <Header/>
           <div>
-              <Magicwordgroup/>
+            <Magicwordgroup/>
           </div>
         </>
     )

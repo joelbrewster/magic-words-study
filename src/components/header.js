@@ -5,7 +5,12 @@ import React from "react"
 const Header = ({ siteTitle }) => (
   <header
     style={{
-      background: `white`,
+        background: `white`,
+        zIndex: `99`,
+        position: `fixed`,
+        top: `0`,
+        left: `0`,
+        right: `0`
     }}
   >
     <div
@@ -15,9 +20,11 @@ const Header = ({ siteTitle }) => (
         padding: `1.45rem 1.0875rem`,
       }}
     >
-	<h1 style={{ margin: 0, textAlign: `center`, }}>
-	    Magic words
-	</h1>
+      <Link to="/">
+        <h1 style={{ margin: 0, textAlign: `center`, }}>
+            Magic words
+    </h1>
+    </Link>
     </div>
   </header>
 )

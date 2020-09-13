@@ -2,9 +2,9 @@ import React, { useState } from 'react'
 import Layout from "../components/layout"
 import EmblaCarouselReact from 'embla-carousel-react'
 import Confetti from "../components/confetti"
+import Header from "../components/header"
 
 const IndexPage = () =>  {
-
     const colour = '#c0c0c0';
     const [embla, setEmbla] = useState(null);
 
@@ -39,6 +39,7 @@ const IndexPage = () =>  {
     ];
     return (
         <>
+          <Header/>
           <EmblaCarouselReact
             htmlTagName="div"
             emblaRef={setEmbla}
@@ -47,12 +48,12 @@ const IndexPage = () =>  {
 
             <div className="slide">
               {words.map(word =>
-                         <div className="slide-inner" style={{ backgroundColor: `${colour}` }}>
-                           <p>
-                             {word}
-                           </p>
-                         </div>
-                        )}
+                  <div className="slide-inner" style={{ backgroundColor: `${colour}` }}>
+                    <p>
+                      {word}
+                    </p>
+                  </div>
+              )}
               <div className="slide-inner slider-inner-confetti" style={{ backgroundColor: `${colour}` }}>
                 <Confetti/>
               </div>
