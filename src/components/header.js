@@ -5,13 +5,13 @@ import React from "react"
 const Header = ({ siteTitle }) => (
   <header
     style={{
-        background: `white`,
-        zIndex: `99`,
-        position: `sticky`,
-        marginTop: `-30px`,
-        top: `0`,
-        left: `0`,
-        right: `0`
+      background: `white`,
+      zIndex: `99`,
+      position: `sticky`,
+      marginTop: `-30px`,
+      top: `0`,
+      left: `0`,
+      right: `0`,
     }}
   >
     <div
@@ -22,10 +22,8 @@ const Header = ({ siteTitle }) => (
       }}
     >
       <Link to="/">
-        <h1 style={{ margin: 0, textAlign: `center`, }}>
-            Magic words
-    </h1>
-    </Link>
+        <h1 style={{ margin: 0, textAlign: `center` }}>Magic words</h1>
+      </Link>
     </div>
   </header>
 )
