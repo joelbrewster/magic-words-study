@@ -1,0 +1,9 @@
+* Magic words study
+
+Magic words study is an online app for Victorian School prep age children to study "magic words".
+It can be viewed and saved to whatever mobile device you are on [[https://magic-words-study.netlify.app/][here]].
+
+It's a quick build that's optimised for mobile devices. Select the level you are up to, then swipe (or tap the arrows) to go onto the next magic word.
+
+- Fonts are sourced for personal use on [[https://www.wfonts.com/font/vic-wa-nt-school-handwriting][sharefonts.net]].
+- Embla carousel is sourced from [[https://www.npmjs.com/package/embla-carousel-react][npm]].
